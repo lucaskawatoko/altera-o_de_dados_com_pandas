@@ -2,7 +2,7 @@
 
 pip install -r requirements. txt 
 
-obs: baixe somente os arquivos com sequinte nomes : produtos.xlsx,requirements.txt,codigo.py
+obs: baixe somente os arquivos com seguinte nomes : produtos.xlsx,requirements.txt,codigo.py
 
 ## agora vamos para uma breve explicação
 
